@@ -1,0 +1,19 @@
+OWASP – Cross-Site Scripting (XSS)
+
+Description :
+La faille XSS permet à un attaquant d’injecter du code JavaScript malveillant
+dans une application web. Ce code est ensuite exécuté dans le navigateur
+des utilisateurs.
+
+Impact :
+- Vol de cookies et de sessions
+- Redirection vers des sites malveillants
+- Usurpation d’identité
+
+Exemple :
+<script>alert('XSS')</script>
+
+Prévention :
+- Validation et filtrage des entrées utilisateur
+- Encodage des sorties HTML
+- Utilisation de frameworks sécurisés
