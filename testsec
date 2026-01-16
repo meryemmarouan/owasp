@@ -1,0 +1,3 @@
+Vulnerable Components
+Dépendances obsolètes. 
+Solution : SBOM + Scans réguliers (pip-audit, npm audit).
