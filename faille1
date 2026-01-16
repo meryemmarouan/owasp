@@ -1,0 +1,4 @@
+Broken Access Control
+
+Défaut de permissions. 
+Solution : Principe du moindre privilège + vérification côté serveur

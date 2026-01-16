@@ -1,0 +1,4 @@
+Cryptographic Failures
+
+Données sensibles mal protégées. 
+Solution : HTTPS obligatoire + hachage fort (bcrypt/Argon2).
